@@ -1,0 +1,1 @@
+use docker run -d -v [absolute host path]:[absolute container path] -p 3020:3020 jmsv23/node
